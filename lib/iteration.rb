@@ -11,7 +11,7 @@ def join_ingredients(src)
   i = 0
 while i < src.count do
 inner = src[i]
-
+result << 
 
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
