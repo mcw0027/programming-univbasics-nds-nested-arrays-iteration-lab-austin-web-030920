@@ -8,6 +8,7 @@ def join_ingredients(src)
   # As such, there should be a new String for each inner array, or pair
   array_1 = [['pepperoni', 'sausage'], ['green olives', 'green peppers'], ['onions', 'pineapple']]
   
+  result = []
   i = 0
 while i < src.count do
 inner = src[i]
